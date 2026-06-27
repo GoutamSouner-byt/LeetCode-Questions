@@ -7,6 +7,7 @@ A collection of LeetCode problem solutions in Java for coding interview!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -33,6 +34,7 @@ A collection of LeetCode problem solutions in Java for coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -55,4 +57,8 @@ A collection of LeetCode problem solutions in Java for coding interview!
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
