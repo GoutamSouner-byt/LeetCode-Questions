@@ -7,6 +7,7 @@ A collection of LeetCode problem solutions in Java for coding interview!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -14,10 +15,12 @@ A collection of LeetCode problem solutions in Java for coding interview!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GoutamSouner-byt/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |
